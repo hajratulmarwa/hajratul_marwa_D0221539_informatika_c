@@ -5,7 +5,7 @@ import java.math.*;
 import java.util.regex.*;
 
 public class Solution { 
-    //Nur halisah Day26 java primality test
+   
 
    public static void main(String[] args) {
       Scanner in = new Scanner(System.in);
