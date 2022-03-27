@@ -1,6 +1,6 @@
 import java.io.IOException;
 import java.lang.reflect.Method;
-//Nur halisah Day 37 java generics
+
 class Printer{
     
     public static <E> void printArray(E[] inputArray) {
