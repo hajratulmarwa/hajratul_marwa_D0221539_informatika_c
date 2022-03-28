@@ -1,5 +1,5 @@
 import java.util.*;
-//Nur halisah Day38 Java Comparator
+
 class Checker implements Comparator<Player>{
 
         public int compare(Player a, Player b) {
